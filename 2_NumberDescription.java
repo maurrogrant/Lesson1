@@ -1,4 +1,4 @@
-public class NumberDescription {
+public class Main {
     public static void main(String[] args) {
         // Задаем число
         int number = -5;
