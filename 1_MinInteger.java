@@ -1,4 +1,4 @@
-public class MinInteger {
+public class Main {
     public static void main(String[] args) {
         // Задаем два целых числа
         int num1 = 10;
